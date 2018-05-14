@@ -1,0 +1,152 @@
+{
+    "basic": {
+        "des": ["basic"],
+
+        "items": [
+            {
+                "des": "1",
+                "imgSrc": "https://i.imgur.com/7nbAJ0C.jpg"
+            },
+            {
+                "des": "2",
+                "imgSrc": "https://i.imgur.com/pgCzueK.jpg"
+            },
+            {
+                "des": "3",
+                "imgSrc": "https://i.imgur.com/d5aiXJP.jpg"
+            },
+            {
+                "des": "4",
+                "imgSrc": "https://i.imgur.com/L75otV6.jpg"
+            },
+            {
+                "des": "5",
+                "imgSrc": "https://i.imgur.com/qkPMr9D.jpg"
+            }
+        
+        ] 
+    },
+
+    "customSlideCpnt": {
+
+        "items": [
+            {
+                "imgSrc": "https://c.pxhere.com/photos/b5/40/architecture_skyscraper_glass_facades_modern_facade_sky_building_d_sseldorf-1184497.jpg!d",
+                "des1": "Black",
+                "des2": "White"
+            },
+            {
+                "imgSrc": "https://c.pxhere.com/photos/4a/92/architecture_skyscraper_glass_facades_modern_facade_sky_building_d_sseldorf-1289274.jpg!d",
+                "des1": "Black",
+                "des2": "White"
+            },
+            {
+                "imgSrc": "https://c.pxhere.com/photos/01/00/architecture_skyscraper_glass_facades_modern_facade_sky_building_d_sseldorf-1191017.jpg!d",
+                "des1": "Black",
+                "des2": "White"
+            }
+        
+        ] 
+    },
+
+    "autoSliding": {
+        "items": [
+            {
+                "imgSrc": "https://c.pxhere.com/photos/38/9a/rustic_vehicle_vintage_retro_throwback_old_school_old_transportation-872722.jpg!d"
+            },
+            {
+                "imgSrc": "https://c.pxhere.com/photos/6b/fc/rusty_car_broken_car_abandoned_car_automobile_aged_old_american_car_cuba-815042.jpg!d"
+            },
+            {
+                "imgSrc": "https://c.pxhere.com/photos/c5/03/photo-92087.jpg!d"
+            },
+            {
+                "imgSrc": "https://c1.staticflickr.com/1/8/6340882_46a6a534b3_b.jpg"
+            }
+        ]
+    },
+
+    "buttonsUsage": {
+
+        "items": [
+            {
+                "imgSrc": "",
+                "buttonLabel": "button1",
+                "color": "rgb(149,117,205)"
+            },
+            {
+                "imgSrc": "",
+                "buttonLabel": "button2",
+                "color": "rgb(121,134,203)"
+            },
+            {
+                "imgSrc": "",
+                "buttonLabel": "button3",
+                "color": "rgb(239,83,80)"
+            },
+            {
+                "imgSrc": "",
+                "buttonLabel": "button4",
+                "color": "rgb(230,81,0)"
+            }
+        ]
+    },
+
+    "scientists": {
+
+        "items": [
+            {
+                "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nicolaus_Copernicus_AGE_V13_1804.jpg",
+                "name": "Niklas Koppernigk",
+                "des": "19 February 1473 – 24 May 1543"
+            },
+            {
+                "imgSrc": "https://c1.staticflickr.com/4/3078/2557680419_d6cfe4b2fb.jpg",
+                "name": "Galileo Galilei",
+                "des": "15 February 1564 – 8 January 1642"
+            },
+            {
+                "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Faraday-Millikan-Gale-1913.jpg",
+                "name": "Michael Faraday",
+                "des": "22 September 1791 – 25 August 1867"
+            },
+            {
+                "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Marie_Curie_Tekniska_museet.jpg",
+                "name": "Marie Curie",
+                "des": "7 November 1867 – 4 July 1934"
+            },
+            {
+                "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/11/Albert_Einstein_photo_1921.jpg",
+                "name": "Albert Einstein",
+                "des": "14 March 1879 – 18 April 1955"
+            }
+        ] 
+    },
+
+    "icons": {
+
+        "items": [
+            {
+                "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vectorized_Apple_gray_logo.svg/2000px-Vectorized_Apple_gray_logo.svg.png",
+                "des": "2000 x 2000"
+            },
+            {
+                "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/1/16/Facebook-icon-1.png",
+                "des": "1024 x 1024"
+            },
+            {
+                "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2000px-YouTube_play_button_square_%282013-2017%29.svg.png",
+                "des": "2000 x 2000"
+            },
+            {
+                "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwiKw9xPE6ZTl490JW-wqvQZD5shpSraY8CLCs5-8VEMK7sO1H",
+                "des": "800 x 800"
+            },
+            {
+                "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png",
+                "des": "800 x 800"
+            }
+        ] 
+    }
+
+}
